@@ -2,7 +2,7 @@
 Built an online superstore manager database project.
 
 ## Technology
-Oracle (Relational Database Management System), Query Tools: SQL *Plus 
+Oracle (Relational Database Management System), Query Tools: SQL *Plus/Toad
 
 ### Overview
 
